@@ -22,6 +22,11 @@
    2. แนบลิงค์ตรงคำว่า "here" 
    3. กำหนดชื่อไฟล์เมื่อดาวน์โหลดเป็น "competitive-programming-book.pdf"
 
+6. จงสร้างลิงค์สำหรับส่ง email โดยมีรายละเอียดดังต่อไปนี้ (หมายเหตุ การเว้นวรรคในหัวข้อและเนื้อหาต้องถูก encode ตามหลัก percent-escaped)
+   1. ผู้รับเป็น k.pattara@outlook.com
+   2. หัวข้อ(subject) เป็น Sending email from html
+   3. เนื้อหา(body) เป็น This email is sent by click hyperlink in the html
+
 
 # แบบฝึกหัด 3 ตอบคำถาม
 * สร้าง question_answer.txt (ข้างใน html_course_ex3) แล้วใส่คำตอบของคำถามด้านล่าง โดยเขียนเลขข้อกำกับคำตอบด้วย

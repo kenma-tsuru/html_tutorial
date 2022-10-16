@@ -90,3 +90,16 @@
 </a>
 ```
 
+# E-mail links
+* It's possible to create links or buttons that, when clicked, open a new outgoing email message rather than linking to a resource or page. This is done using the `<a>` element and the `mailto:` URL scheme.
+```html
+<a href="mailto:nowhere@mozilla.org">Send email to nowhere</a>
+```
+* In addition to the email address, you can provide other information. The values of each field must be URL-encoded with non-printing characters (invisible characters like tabs, carriage returns, and page breaks) and spaces [percent-escaped](https://en.wikipedia.org/wiki/Percent-encoding).
+* Also, note the use of the question mark (?) to separate the main URL from the field values, and ampersands (&) to separate each field in the mailto: URL.
+```html
+<a
+  href="mailto:nowhere@mozilla.org?subject=The%20subject%20of%20the%20email&body=The%20body%20of%20the%20email">
+  Send mail with cc, bcc, subject and body
+</a>
+```
