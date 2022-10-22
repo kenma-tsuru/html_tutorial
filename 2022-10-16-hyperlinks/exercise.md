@@ -20,7 +20,6 @@
 5. จงสร้างลิงค์สำหรับดาวน์โหลดไฟล์ https://cses.fi/book/book.pdf 
    1. กำหนดข้อความเป็น "click here to download the book"
    2. แนบลิงค์ตรงคำว่า "here" 
-   3. กำหนดชื่อไฟล์เมื่อดาวน์โหลดเป็น "competitive-programming-book.pdf"
 
 6. จงสร้างลิงค์สำหรับส่ง email โดยมีรายละเอียดดังต่อไปนี้ (หมายเหตุ การเว้นวรรคในหัวข้อและเนื้อหาต้องถูก encode ตามหลัก percent-escaped)
    1. ผู้รับเป็น k.pattara@outlook.com
@@ -56,6 +55,3 @@
     2. profile.png
     3. fruit.png
     4. pad-thai.txt
-
-
-2. การใส่ค่า `download="cp-book.pdf"` กับ `download` เฉยๆ ใน hyperlink ให้ผลแตกต่างกันอย่างไร
