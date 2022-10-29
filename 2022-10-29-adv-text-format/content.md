@@ -35,7 +35,7 @@
 ```
 
 # Contact detail
-HTML has an element for marking up contact details — _<address>_.
+HTML has an element for marking up contact details — `<address>`.
 ```html
 <address>Chris Mills, Manchester, The Grim North, UK</address>
 ```
