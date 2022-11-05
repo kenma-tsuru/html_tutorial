@@ -17,9 +17,9 @@
 
    6. สร้าง footer ด้วยข้อมูล social media (เลือกมา 3 social media) ที่ระบุไว้ส่วนท้ายของเว็บไซต์ โดยกำหนดให้เรียงช่องทาง social media เป็น unordered list แต่ละ item เป็นชื่อ social media นั้น พร้อมทั้งแนบลิงค์ด้วย
 # แบบฝึกหัด 5 ตอบคำถาม
-* สร้าง question_answer.txt (ข้างใน html_course_ex4) แล้วใส่คำตอบของคำถามด้านล่าง โดยเขียนเลขข้อกำกับคำตอบด้วย
+* สร้าง โฟลเดอร์ question_answer (ข้างใน html_course_ex5) แล้วใส่คำตอบของคำถามด้านล่าง โดยเขียนเลขข้อกำกับคำตอบด้วย
 
-1. เข้าเว็บไซต์ https://www.bangkokpost.com/business/2430515/singapore-seeks-40-years-in-jail-for-stock-market-manipulator และ screen capture ส่วนต่างๆตามหัวข้อต่อไปนี้
+1. เข้าเว็บไซต์ https://www.bangkokpost.com/business/2430515/singapore-seeks-40-years-in-jail-for-stock-market-manipulator และ screen capture และตั้งชื่อไฟล์รูปตามข้อย่อย ส่วนต่างๆตามหัวข้อต่อไปนี้
    1. header
    2. navigation bar
    3. main page (main content)
