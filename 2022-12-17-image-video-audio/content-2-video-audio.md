@@ -76,7 +76,7 @@ This is the second.
 <video controls>
   <source src="example.mp4" type="video/mp4" />
   <source src="example.webm" type="video/webm" />
-  <track kind="subtitles" src="subtitles_es.vtt" srclang="es" label="Spanish" />
+  <track kind="subtitles" src="subtitles_es.vtt" srclang="en" label="English" />
 </video>
 
 ```
