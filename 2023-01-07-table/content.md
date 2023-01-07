@@ -100,24 +100,19 @@ attribute.
 
 ```html
 <table>
-  <tbody><tr>
-    <th>Month</th>
-    <th>Day</th>
-    <th>Year</th>
-  </tr>
   <tr>
-    <td colspan="3">January</td>
+    <td colspan="2">January</td>
   </tr>
   <tr>
     <td>1</td>
-    <td colspan="2">2022</td>
+    <td>2022</td>
   </tr>
   <tr>
-    <td colspan="3">February</td>
+    <td colspan="2">February</td>
   </tr>
   <tr>
     <td>14</td>
-    <td colspan="2">2022</td>
+    <td>2022</td>
   </tr>
-</tbody></table>
+</table>
 ```
