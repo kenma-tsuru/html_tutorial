@@ -1,0 +1,20 @@
+form {
+    max-width: 600px;
+    margin-left: 0; /* align the form to the left of the page */
+  }
+  
+  label {
+    width: 20%;
+    text-align: left;
+    margin-right: 1%;
+    padding-top: 5px;
+    font-weight: bold;
+    margin-bottom: 10px; /* add space below label */
+  }
+  
+  input, select {
+    max-width: 75%;
+    margin-top: 10px; /* add space above input/select */
+    margin-bottom: 10px; /* add space below input/select */
+  }
+  
